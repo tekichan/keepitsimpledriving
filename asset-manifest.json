@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/keepitsimpledriving/static/css/main.5b7af373.css",
-    "main.js": "/keepitsimpledriving/static/js/main.e3a5c762.js",
+    "main.js": "/keepitsimpledriving/static/js/main.7b79686c.js",
     "static/js/787.a3f4064b.chunk.js": "/keepitsimpledriving/static/js/787.a3f4064b.chunk.js",
     "static/media/keepitsimpledriving_logo.png": "/keepitsimpledriving/static/media/keepitsimpledriving_logo.5774f8a4b70b90d2ef26.png",
     "static/media/keepitsimpledriving_pass_cert.png": "/keepitsimpledriving/static/media/keepitsimpledriving_pass_cert.44427c0abfed75042055.png",
@@ -10,11 +10,11 @@
     "static/media/pass_reece.jpg": "/keepitsimpledriving/static/media/pass_reece.3b949e6a4e940176da97.jpg",
     "index.html": "/keepitsimpledriving/index.html",
     "main.5b7af373.css.map": "/keepitsimpledriving/static/css/main.5b7af373.css.map",
-    "main.e3a5c762.js.map": "/keepitsimpledriving/static/js/main.e3a5c762.js.map",
+    "main.7b79686c.js.map": "/keepitsimpledriving/static/js/main.7b79686c.js.map",
     "787.a3f4064b.chunk.js.map": "/keepitsimpledriving/static/js/787.a3f4064b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b7af373.css",
-    "static/js/main.e3a5c762.js"
+    "static/js/main.7b79686c.js"
   ]
 }
